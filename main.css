@@ -1,0 +1,52 @@
+.main{
+	position: absolute;
+	left: -165px;
+	width: 1000px;
+	padding:186px;
+	
+	}
+ .main h1{
+ 	font-size: 50px;
+ 	font-weight: 30px;
+
+ }
+ .main p{
+ 	font-size: 20px;
+ }
+ .button{
+ 	position: absolute;
+	left: 157px;
+	width: 1000px;
+	padding:30px;
+
+ }
+ .button button{
+ 	background-color:   #009973;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+ .second{
+ 	background-color: #f2f2f2;
+	position: absolute;
+	top: 100%;
+	width: 200%;
+	padding:80px;
+ 	
+
+ }
+ .header{
+ 	position: center;
+	width:100%;
+	padding:0px 250px;	
+ }
+.row{
+	padding: 50px 0px;
+	
+}
+
